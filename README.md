@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm SOHAG MIAH</h1>
 <h3 align="center">Programmer | Web Developer | Speed Learner</h3>
-<h4 align="center">currenntly I am studying in Informatics and System Engineering at University of Pardubice </h4>
+<h4 align="center">Currenntly I am studying in Informatics and System Engineering at University of Pardubice </h4>
 
 <div align="center">
 
